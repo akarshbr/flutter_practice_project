@@ -37,7 +37,7 @@ class SignupPage extends StatelessWidget {
       body: Column(
         children: [
           Container(
-            margin: const EdgeInsets.fromLTRB(50, 0, 50, 0),
+            margin: const EdgeInsets.fromLTRB(50, 70, 50, 0),
             child: Image.asset(
               "assets/icons/pngwing.com.png",
               height: 100,

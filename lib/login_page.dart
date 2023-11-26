@@ -37,7 +37,7 @@ class LoginPage extends StatelessWidget {
       body: Column(
         children: [
           Container(
-              margin: const EdgeInsets.fromLTRB(0, 50, 0, 0),
+              margin: const EdgeInsets.fromLTRB(0, 150, 0, 0),
               child: Image.asset(
                 "assets/icons/pngwing.com.png",
                 height: 100,
